@@ -7,3 +7,6 @@ To install and run the project, follow these steps:
    ```bash
    git clone https://github.com/losesec/winler
    ```
+   ## Run Code
+   ```
+   python winler.py
