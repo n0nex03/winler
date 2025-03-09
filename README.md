@@ -13,7 +13,7 @@ To install and run the project, follow these steps:
 python3 winler.py
 ```
 
-![Screenshot](https://github.com/losesec/winler/raw/3c18db9e3d6f02b4492a49412bb1f2f7d5a900a5/Screenshot%20From%202025-03-07%2010-47-41.png)
+(https://github.com/losesec/winler/raw/3c18db9e3d6f02b4492a49412bb1f2f7d5a900a5/Screenshot%20From%202025-03-07%2010-47-41.png)
 
 ## Example usage 
 The tool can be used with the beef 🍖 tool to download malicious viruses on the victim's machine. 
@@ -24,4 +24,6 @@ This tool is intended for Windows viruses only.🦠🦠🦠
 
 ## to support 
 
-[![Support Me](https://github.com/losesec/profile/blob/b8f708dd40c42da40c0407b5a5b9c2933f62a992/kofi.png?raw=true)](https://ko-fi.com/lose_sec)
+<a href="https://ko-fi.com/lose_sec">
+  <img src="https://github.com/losesec/profile/blob/b8f708dd40c42da40c0407b5a5b9c2933f62a992/kofi.png?raw=true" alt="Support Me" width="200" />
+</a>
