@@ -22,3 +22,6 @@ The tool can be used with the beef 🍖 tool to download malicious viruses on th
 
 This tool is intended for Windows viruses only.🦠🦠🦠
 
+## to support 
+
+(https://github.com/losesec/profile/blob/b8f708dd40c42da40c0407b5a5b9c2933f62a992/kofi.png)](https://ko-fi.com/lose_sec)
