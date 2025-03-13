@@ -40,12 +40,9 @@ def main():
     print(f"\033[0;33mthe tool under development if you want to participate or help, contact me")
     print(f"here: https://www.x.com/@lose_sec")
     print(f"")
-    print(f"if you want to support the project, i will be happy and grateful for your support  ")
-    print(f"support link: https://ko-fi.com/lose_sec")
-    print(f"")
     print(f"if you want some modifications to the design, contact me through the firts link")
     print(f" ")
-    print(f"THINK YOU :)")
+    print(f"THANK YOU :)")
 
 if __name__ == "__main__":
     main()
