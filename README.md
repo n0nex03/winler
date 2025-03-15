@@ -25,5 +25,5 @@ This tool is intended for Windows viruses only.🦠🦠🦠
 ## Donate 
 
 <a href="https://ko-fi.com/lose_sec">
-  <img src="https://github.com/losesec/profile/blob/b8f708dd40c42da40c0407b5a5b9c2933f62a992/kofi.png?raw=true" alt="Support Me" width="100" />
+  <img src="https://github.com/losesec/profile/blob/b8f708dd40c42da40c0407b5a5b9c2933f62a992/kofi1.png?raw=true" alt="Support Me" width="100" />
 </a>
