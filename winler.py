@@ -38,7 +38,7 @@ def main():
     print("")
     print("[Note:]")
     print(f"\033[0;33mthe tool under development if you want to participate or help, contact me")
-    print(f"here: https://www.x.com/@lose_sec")
+    print(f"here: https://www.x.com/@n0nex03")
     print(f"")
     print(f"if you want some modifications to the design, contact me through the firts link")
     print(f" ")
