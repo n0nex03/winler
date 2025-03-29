@@ -5,7 +5,7 @@ To install and run the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/losesec/winler
+   git clone https://github.com/n0nex03/winler
    ```
    ## Run Code
  
@@ -20,7 +20,7 @@ The tool can be used with the beef 🍖 tool to download malicious viruses on th
 
 ## Warning: 
 
-This tool is intended for Windows viruses only.🦠🦠🦠
+This tool is intended for Windows xp->10 viruses only.🦠🦠🦠
 
 ## Donate 
 
