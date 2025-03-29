@@ -1,26 +1,25 @@
-## Installation Instructions
+# Winler
 
-To install and run the project, follow these steps:
+Winler is a tool designed exclusively for Windows systems. Enjoy the features and functionalities provided by this tool to enhance your Windows experience.
 
-1. Clone the repository to your local machine:
+## Features
 
+- **Feature 1**: Describe the first feature here.
+- **Feature 2**: Describe the second feature here.
+- **Feature 3**: Describe the third feature here.
+
+## Requirements
+
+- **Operating System**: Windows
+- **Python Version**: Ensure you have Python installed (version x.x.x or higher)
+- **Dependencies**: List any dependencies or libraries required (e.g., `requests`, `numpy`)
+
+## Installation
+
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/n0nex03/winler
-   ```
-   ## Run Code
- 
-  ```bash
-python3 winler.py
-```
-
-![](https://github.com/losesec/winler/raw/3c18db9e3d6f02b4492a49412bb1f2f7d5a900a5/Screenshot%20From%202025-03-07%2010-47-41.png)
-
-## Example usage 
-The tool can be used with the beef 🍖 tool to download malicious viruses on the victim's machine. 
-
-## Warning: 
-
-This tool is intended for Windows xp->10 viruses only.🦠🦠🦠
+   git clone https://github.com/n0nex03/winler.git
+   cd winler
 
 ## Donate 
 
