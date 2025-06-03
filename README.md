@@ -22,6 +22,5 @@ Winler is a tool designed exclusively for Windows systems. Enjoy the features an
 
 ## Donate 
 
-<a href="https://ko-fi.com/n0nex03">
-  <img src="https://github.com/losesec/profile/blob/a28d95b5c19b6792bbd78417b979eedb90ea8ab8/kofi1.png" alt="Support Me" width="150" />
-</a>
+USDT(TR20): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+BITCOIN(BTC): 3Fa938teyhMwyRMGwaiaBwEkL1EJiTJAPJ
