@@ -22,5 +22,5 @@ Winler is a tool designed exclusively for Windows systems. Enjoy the features an
 
 ## Donate 
 
-USDT(TR20): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
-BITCOIN(BTC): 3Fa938teyhMwyRMGwaiaBwEkL1EJiTJAPJ
+**USDT(TR20)**: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+**BITCOIN(BTC)**: 3Fa938teyhMwyRMGwaiaBwEkL1EJiTJAPJ
